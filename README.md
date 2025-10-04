@@ -92,8 +92,7 @@ The app relies on a curated dataset of **YouTube transcripts** focused on home i
 
 **3. Download the repository:**
 
-- `git clone [https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant.git](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant.git)
-cd DIY_Home_Improvement_Assisstant/diy-streamlit-app`
+- `git clone https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant.git
 
 **4. Build and run the Docker container**
 
