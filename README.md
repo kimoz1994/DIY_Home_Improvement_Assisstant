@@ -90,22 +90,23 @@ The app relies on a curated dataset of **YouTube transcripts** focused on home i
 - Open LM Studio, load the model, and serve it locally  
 - **Important:** Set context tokens ≥ 9000 to handle long context  
 
-**3. Download the repository:**  
+**3. Download the repository:**
+
 ```bash
-git clone https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant.git
+git clone [https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant.git](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant.git)
 cd DIY_Home_Improvement_Assisstant/diy-streamlit-app
 
+**4. Build and run the Docker container**
 
-4. Build and run the Docker container
+Build image:
 
-**Build image:**
 ```bash
 docker build -t my-streamlit-app .
 
 ```bash
 docker run -p 8501:8501 my-streamlit-app
 
-5. Interact with the app
+**5. Interact with the app**
 
 - Open your browser: http://localhost:8501
 
