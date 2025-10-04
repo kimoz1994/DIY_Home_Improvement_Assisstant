@@ -92,20 +92,20 @@ The app relies on a curated dataset of **YouTube transcripts** focused on home i
 
 **3. Download the repository:**
 
-- ```bash git clone [https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant.git](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant.git)
-cd DIY_Home_Improvement_Assisstant/diy-streamlit-app
+- `git clone [https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant.git](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant.git)
+cd DIY_Home_Improvement_Assisstant/diy-streamlit-app`
 
 **4. Build and run the Docker container**
 
 Build image:
 
-- ```bash docker build -t my-streamlit-app .
+- `bash docker build -t my-streamlit-app .`
 
-- ```bash docker run -p 8501:8501 my-streamlit-app
+- `bash docker run -p 8501:8501 my-streamlit-app`
 
 **5. Interact with the app**
 
-- Open your browser: http://localhost:8501
+- Open your browser: `http://localhost:8501`
 
 - Enter a home improvement question (e.g., “How to install a toilet?”)
 
