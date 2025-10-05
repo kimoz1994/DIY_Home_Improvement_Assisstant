@@ -148,4 +148,11 @@ Inside the my-streamlit-app folder -> Build image:
 - ![RAG Evaluation Chart](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/blob/main/rag_evaluation/histogram.png?raw=true)
 
 
+---
+
+## 🎥 Demo
+
+<video src="https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/blob/main/Demo.mp4?raw=true" controls width="700">
+  Your browser does not support the video tag.
+</video>
 
