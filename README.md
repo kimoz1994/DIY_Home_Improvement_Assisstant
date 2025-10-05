@@ -108,6 +108,7 @@ Build image:
 
 - Enter a home improvement question (e.g., “How to install a toilet?”)
 
+
 - The app will return:
 
 - Textual answer with instructions
@@ -115,3 +116,33 @@ Build image:
 - References: up to five YouTube links
 
 💡 You can click the reference links to watch the videos in a separate tab.
+
+
+---
+
+## Evaluation
+
+### 📊 Retrieval Evaluation
+
+**Without boosting:**
+- `{'hit_rate': 0.5736821086261981, 'mrr': 0.347409145367411}`
+
+**With boosting:**
+
+- `{'hit_rate': 0.805111821086262, 'mrr': 0.5459778639890454}`
+
+**Boosting values:**
+
+{
+  'playlist_title': 3.4311350452088907,
+  'video_title': 3.6054325902612927,
+  'chapter_title': 1.3418523035711323,
+  'content': 12.3649113626517
+}
+
+
+🧠 RAG Evaluation
+
+For RAG evaluation, the LLM-as-a-judge method was used to assess answer quality and relevance.
+
+
