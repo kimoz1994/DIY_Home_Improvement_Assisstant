@@ -96,11 +96,11 @@ The app relies on a curated dataset of **YouTube transcripts** focused on home i
 
 **4. Build and run the Docker container**
 
-Build image:
+Inside the my-streamlit-app folder -> Build image:
 
-- `bash docker build -t my-streamlit-app .`
+- `docker build -t my-streamlit-app .`
 
-- `bash docker run -p 8501:8501 my-streamlit-app`
+- `docker run -p 8501:8501 my-streamlit-app`
 
 **5. Interact with the app**
 
