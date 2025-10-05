@@ -152,7 +152,8 @@ Inside the my-streamlit-app folder -> Build image:
 
 ## 🎥 Demo
 
-<video src="https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/blob/main/Demo.mp4?raw=true" controls width="700">
-  Your browser does not support the video tag.
+<video controls width="700" controlsList="nodownload">
+  <source src="https://raw.githubusercontent.com/kimoz1994/DIY_Home_Improvement_Assisstant/main/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag — <a href="https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/raw/main/Demo.mp4">watch the demo</a>.
 </video>
 
