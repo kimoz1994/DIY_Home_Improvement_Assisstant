@@ -122,7 +122,7 @@ Build image:
 
 ## Evaluation
 
-### 📊 Retrieval Evaluation
+### 📊 Retrieval and RAG Evaluation
 
 **Without boosting:**
 - `{'hit_rate': 0.5736821086261981, 'mrr': 0.347409145367411}`
