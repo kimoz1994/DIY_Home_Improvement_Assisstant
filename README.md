@@ -152,7 +152,5 @@ Inside the my-streamlit-app folder -> Build image:
 
 ## 🎥 Demo
 
-
-[![Watch the demo](https://raw.githubusercontent.com/kimoz1994/DIY_Home_Improvement_Assisstant/main/rag_evaluation/histogram.png)](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/raw/main/Demo.mp4)
-
+[![Watch the Demo](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/blob/main/thumbnail.PNG)](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/blob/main/Demo.mp4?raw=true)
 
