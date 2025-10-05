@@ -133,16 +133,17 @@ Build image:
 
 **Boosting values:**
 
-{
+`{
   'playlist_title': 3.4311350452088907,
   'video_title': 3.6054325902612927,
   'chapter_title': 1.3418523035711323,
   'content': 12.3649113626517
-}
+}`
 
 
-🧠 RAG Evaluation
+**🧠 RAG Evaluation**
 
-For RAG evaluation, the LLM-as-a-judge method was used to assess answer quality and relevance.
+- For RAG evaluation, the LLM-as-a-judge method was used to assess answer quality and relevance.
+![RAG Evaluation Chart](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/blob/main/diy-streamlit-app/assets/evaluation_chart.png?raw=true)
 
 
