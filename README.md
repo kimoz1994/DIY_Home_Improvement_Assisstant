@@ -158,5 +158,7 @@ Inside the my-streamlit-app folder -> Build image:
 
 ## 🎥 Demo
 
+- click the picture to download the video
+
 [![Watch the Demo](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/blob/main/thumbnail.PNG)](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/blob/main/Demo.mp4?raw=true)
 
