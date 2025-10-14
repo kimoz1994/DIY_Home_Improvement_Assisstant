@@ -147,6 +147,7 @@ Inside the my-streamlit-app folder -> Build image:
 **🧠 RAG Evaluation**
 
 - For RAG evaluation, the LLM-as-a-judge method was used to assess answer quality and relevance.
+- Rag evaluation Dataset and Notebook is [here](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/tree/main/rag_evaluation)
 
 - ![RAG Evaluation Chart](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/blob/main/rag_evaluation/histogram.png?raw=true)
 
