@@ -74,6 +74,9 @@ The app relies on a curated dataset of **YouTube transcripts** focused on home i
 - `content` — transcript text for the chapter  
 - `clip_link` — YouTube link pointing to the chapter start  
 
+Data set file here: [Dataset](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/tree/main/diy-streamlit-app/DIY_dataset)
+
+
 **Indexing:**  
 - The dataset is pre-indexed using **MinSearch**, with `chapter_title` and `content` used for semantic search, enabling fast retrieval for user queries.
 
