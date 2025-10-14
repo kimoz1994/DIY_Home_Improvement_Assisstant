@@ -127,6 +127,8 @@ Inside the my-streamlit-app folder -> Build image:
 
 ### 📊 Retrieval and RAG Evaluation
 
+- Retrieval evaluation dataset and notebook are [here](https://github.com/kimoz1994/DIY_Home_Improvement_Assisstant/tree/main/retrieval_evaluation)
+
 **Without boosting:**
 - `{'hit_rate': 0.5736821086261981, 'mrr': 0.347409145367411}`
 
